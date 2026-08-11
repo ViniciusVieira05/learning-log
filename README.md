@@ -48,8 +48,11 @@ learning_log/
 │   └── wsgi.py
 │
 ├── learning_logs/
-|    └── migrations/
-|        └──__init__.py
+|   ├── migrations/
+|   |   └──__init__.py
+|   ├── templates/
+|   |   └── learning_logs/
+|   |       └── index.html
 │   ├── __init__.py
 │   ├── admin.py
 │   ├── apps.py
