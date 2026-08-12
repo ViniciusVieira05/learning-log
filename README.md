@@ -52,7 +52,10 @@ learning_log/
 |   |   └──__init__.py
 |   ├── templates/
 |   |   └── learning_logs/
-|   |       └── index.html
+|   |       ├── base.html
+|   |       ├── index.html
+|   |       ├── topic.html
+|   |       └── topics.html
 │   ├── __init__.py
 │   ├── admin.py
 │   ├── apps.py
